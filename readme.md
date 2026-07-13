@@ -261,7 +261,7 @@ style O fill:none,stroke:none
      - Staying up to date in a fast-moving field
      - Final words
      
-- *appendix A* - Introduction to PyTorch [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/appendix-A/01_main-chapter-code/.ipynb_checkpoints/code-part1-checkpoint.ipynb)
+- *appendix A* - Introduction to PyTorch [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/appendix-A/01_main-chapter-code/.ipynb_checkpoints/code-part1-checkpoint.ipynb#C1)
 - *appendix B* - References and further reading
 - *appendix C* - Exercise solutions 
 - *appendix D* - Adding bells and whistles to the training loop
