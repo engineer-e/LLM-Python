@@ -6,6 +6,9 @@
 
 ----
 
+![alt text](image/install.png)
+![alt text](image.png)
+
 # Large-Language-Model
 
 For my Learning from Book Author is "Sebastian Raschka (Ph.D)" - "Build A Large Language Model", The Device I used doc [1](report.md), [2](framework_for_device.md)
