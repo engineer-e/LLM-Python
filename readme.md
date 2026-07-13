@@ -2,7 +2,7 @@
 
 > This Book author is **Sebastian Raschka** from **Manning**. 
 
-> I learned LLM from this book, this work is nice. 
+> I learned LLM from this book, His work on this book is nice and well structured. 
 
 ----
 
