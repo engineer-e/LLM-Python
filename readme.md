@@ -194,14 +194,14 @@ style O fill:none,stroke:none
    - 1.6 A closer look at the GPT architecture
    - 1.7 Building a large language model 
 2. Working with text data
-   - 2.1 Understanding word embeddings
-   - 2.2 Tokenizing text
-   - 2.3 Converting tokens into token IDs
-   - 2.4 Adding special context tokens
-   - 2.5 Byte pair encoding
-   - 2.6 Data sampling with a sliding window
-   - 2.7 Creating token embeddings
-   - 2.8 Encoding word positions
+   - 2.1 Understanding word embeddings [⏳⚠️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C3)
+   - 2.2 Tokenizing text [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C4)
+   - 2.3 Converting tokens into token IDs [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C13)
+   - 2.4 Adding special context tokens [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C21)
+   - 2.5 Byte pair encoding [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C30)
+   - 2.6 Data sampling with a sliding window [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C35)
+   - 2.7 Creating token embeddings [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C48)
+   - 2.8 Encoding word positions [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C54)
 3. Coding attention mechanisms
    - 3.1 The problem with modeling long sequences
    - 3.2 Capturing data dependencies with attention mechanisms
