@@ -211,26 +211,26 @@ style O fill:none,stroke:none
    - 3.1 The problem with modeling long sequences [⏳⚠️]()
    - 3.2 Capturing data dependencies with attention mechanisms [⏳⚠️]()
    - 3.3 Attending to different parts of the input with self-attention [⏳⚠️]()
-      - A simple self-attention mechanism without trainable weights [✔️]()
-      - Computing attention weights for all input tokens [✔️]()
+      - A simple self-attention mechanism without trainable weights [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch03/01_main-chatper-code/ch03.ipynb#C6)
+      - Computing attention weights for all input tokens [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch03/01_main-chatper-code/ch03.ipynb#C17)
    - 3.4 Implementing self-attention with trainable weights [⏳⚠️]()   
-      - Computing the attention weights step by step [✔️]()
-      - Implementing a compact self-attention Python class [✔️]()
+      - Computing the attention weights step by step [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch03/01_main-chatper-code/ch03.ipynb#C28)
+      - Implementing a compact self-attention Python class [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch03/01_main-chatper-code/ch03.ipynb#C40)
    - 3.5 Hiding future words with causal attention [⏳⚠️]()
-      - Applying a causal attention mask [✔️]()
-      - Masking additional attention weights with dropout [✔️]()
-      - Implementing a compact causal attention class [✔️]()
+      - Applying a causal attention mask [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch03/01_main-chatper-code/ch03.ipynb#C44)
+      - Masking additional attention weights with dropout [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch03/01_main-chatper-code/ch03.ipynb#C51)
+      - Implementing a compact causal attention class [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch03/01_main-chatper-code/ch03.ipynb#C54)
    - 3.6 Extending single-head attention to multi-head attention [⏳⚠️]()
-      - Stacking multiple single-head attention layers [✔️]()
-      - Implementing multi-head attention with weight splits [✔️]()
-4. Implementing a GPT model from scratch to generate text
-   - 4.1 Coding an LLM architecture
-   - 4.2 Normalizing activations with layer normalization
-   - 4.3 Implementing a feed forward network with GELU activations
-   - 4.4 Adding shortcut connections
-   - 4.5 Connecting attention and linear layers in a transformer block
-   - 4.6 Coding the GPT model
-   - 4.7 Generating text
+      - Stacking multiple single-head attention layers [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch03/01_main-chatper-code/ch03.ipynb#C58)
+      - Implementing multi-head attention with weight splits [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch03/01_main-chatper-code/ch03.ipynb#C60)
+4. Implementing a GPT model from scratch to generate text [⏳⚠️]()
+   - 4.1 Coding an LLM architecture [✔️]()
+   - 4.2 Normalizing activations with layer normalization [✔️]()
+   - 4.3 Implementing a feed forward network with GELU activations [✔️]()
+   - 4.4 Adding shortcut connections [✔️]()
+   - 4.5 Connecting attention and linear layers in a transformer block [✔️]()
+   - 4.6 Coding the GPT model [✔️]()
+   - 4.7 Generating text [✔️]()
 5. Pretraining on unlabeled data
    - 5.1 Evaluating generative text models
      - Using GPT to generate text
