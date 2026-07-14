@@ -8,7 +8,7 @@
 
 
 ![alt text](image/install.png)
-![alt text](image.png)
+
 
 # Large-Language-Model
 
