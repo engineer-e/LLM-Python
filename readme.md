@@ -208,21 +208,21 @@ style O fill:none,stroke:none
    - 2.7 Creating token embeddings [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C48)
    - 2.8 Encoding word positions [✔️](https://vscode.dev/github/engineer-e/LLM-Python/blob/main/ch02/01_main-chapter-code/ch02.ipynb#C54)
 3. Coding attention mechanisms
-   - 3.1 The problem with modeling long sequences
-   - 3.2 Capturing data dependencies with attention mechanisms
-   - 3.3 Attending to different parts of the input with self-attention
+   - 3.1 The problem with modeling long sequences [⏳⚠️]()
+   - 3.2 Capturing data dependencies with attention mechanisms [⏳⚠️]()
+   - 3.3 Attending to different parts of the input with self-attention [⏳⚠️]()
       - A simple self-attention mechanism without trainable weights [✔️]()
       - Computing attention weights for all input tokens [✔️]()
-   - 3.4 Implementing self-attention with trainable weights   
-      - Computing the attention weights step by step
-      - Implementing a compact self-attention Python class
-   - 3.5 Hiding future words with causal attention
-      - Applying a causal attention mask
-      - Masking additional attention weights with dropout
-      - Implementing a compact causal attention class
-   - 3.6 Extending single-head attention to multi-head attention
-      - Stacking multiple single-head attention layers
-      - Implementing multi-head attention with weight splits
+   - 3.4 Implementing self-attention with trainable weights [⏳⚠️]()   
+      - Computing the attention weights step by step [✔️]()
+      - Implementing a compact self-attention Python class [✔️]()
+   - 3.5 Hiding future words with causal attention [⏳⚠️]()
+      - Applying a causal attention mask [✔️]()
+      - Masking additional attention weights with dropout [✔️]()
+      - Implementing a compact causal attention class [✔️]()
+   - 3.6 Extending single-head attention to multi-head attention [⏳⚠️]()
+      - Stacking multiple single-head attention layers [✔️]()
+      - Implementing multi-head attention with weight splits [✔️]()
 4. Implementing a GPT model from scratch to generate text
    - 4.1 Coding an LLM architecture
    - 4.2 Normalizing activations with layer normalization
