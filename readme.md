@@ -6,12 +6,14 @@
 
 ----
 
+
 ![alt text](image/install.png)
 ![alt text](image.png)
 
 # Large-Language-Model
 
-For my Learning from Book Author is "Sebastian Raschka (Ph.D)" - "Build A Large Language Model", The Device I used doc [1](report.md), [2](framework_for_device.md)
+For my Learning from Book Author is "Sebastian Raschka (Ph.D)" - "Build A Large Language Model", The Device I used doc [1](report.md), [2](framework_for_device.md), [yml - Python Module](yml_generate.md), [c++ in *.ipynb](https://colab.research.google.com/github/hussain0048/C-Plus-Plus/blob/master/Basic_of_C%2B%2B.ipynb)
+
 
 ## System Specification
 
@@ -209,8 +211,8 @@ style O fill:none,stroke:none
    - 3.1 The problem with modeling long sequences
    - 3.2 Capturing data dependencies with attention mechanisms
    - 3.3 Attending to different parts of the input with self-attention
-      - A simple self-attention mechanism without trainable weights
-      - Computing attention weights for all input tokens
+      - A simple self-attention mechanism without trainable weights [✔️]()
+      - Computing attention weights for all input tokens [✔️]()
    - 3.4 Implementing self-attention with trainable weights   
       - Computing the attention weights step by step
       - Implementing a compact self-attention Python class
