@@ -17,6 +17,8 @@ For my Learning from Book Author is "Sebastian Raschka (Ph.D)" - "Build A Large 
 
 ## System Specification
 
+# This Device, is damaged due to voltage fluctuations 
+
 | **Category**                        | **Specification**                                                                                    |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Operating System**                | Microsoft Windows 10 Home (64-bit)                                                                   |
