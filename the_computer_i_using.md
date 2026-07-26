@@ -1,4 +1,4 @@
-**old desktop** with GT710 and the **new laptop** you are currently using (owned by your younger brother, **Kishore Kumar V**).
+Hello, I am Gobal Krishnan V i used **old desktop** with GT710 (it damaged due to Voltage fluctuation. So, I currently using (owned by your younger brother, **Kishore Kumar V** laptop).
 
 | Component                 | **Old System (Gobal Krishnan V)**                  | **New System (Kishore Kumar V)**           | Improvement               |
 | ------------------------- | -------------------------------------------------- | ------------------------------------------ | ------------------------- |
