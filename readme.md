@@ -14,29 +14,13 @@
 
 For my Learning from Book Author is "Sebastian Raschka (Ph.D)" - "Build A Large Language Model", The Device I used doc [1](report.md), [2](framework_for_device.md), [yml - Python Module](yml_generate.md), [c++ in *.ipynb](https://colab.research.google.com/github/hussain0048/C-Plus-Plus/blob/master/Basic_of_C%2B%2B.ipynb)
 
+* 👋 I am **Gobal Krishnan V**. I am doing this for learning purposes. 📚
+* 💻 I am using the material **[💥💻 Build A Large Language Model](https://github.com/rasbt/LLMs-from-scratch)**. 📚 The book is written by **Sebastian Raschka (Ph.D.)**. He has already completed the implementation in **Python**, and the Python code is fully functional.🚀
+* ⚠️ [My device](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_used.md) was damaged due to voltage fluctuations. 💥💻 I am using my younger brother's laptop, ["Kishore Kumar V" 💻 Laptop](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_using.md). ❤️ [system info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/system_info.txt) ❤️, [gpu info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/gpu_info.txt) ❤️
+* 🩺 Due to health issues, I resigned from my job in **June 2025**. 💼 I have been searching for a job for the past **1 year**, but I have not gotten one yet. 🙏
 
-## System Specification
 
-# This Device, is damaged due to voltage fluctuations 
-
-| **Category**                        | **Specification**                                                                                    |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Operating System**                | Microsoft Windows 10 Home (64-bit)                                                                   |
-| **OS Version**                      | 10.0.19045 (Build 19045)                                                                             |
-| **System Manufacturer**             | Micro-Star International Co., Ltd. (MSI)                                                             |
-| **System Model**                    | MS-7C09                                                                                              |
-| **System Architecture**             | x64-based PC                                                                                         |
-| **Processor (CPU)**                 | Intel® Core™ i3-9100F @ 3.60 GHz                                                                     |
-| **CPU Cores / Threads**             | 4 Cores / 4 Threads                                                                                  |
-| **BIOS Version**                    | American Megatrends Inc. Version 1.50                                                                |
-| **Installed Physical Memory (RAM)** | 8 GB DDR4                                                                                            |
-| **Available Physical Memory**       | Approximately 2.8 GB (at the time of measurement)                                                    |
-| **Maximum Virtual Memory**          | 15.6 GB                                                                                              |
-| **Execution Device for LLM**        | CPU (GPU acceleration not used)                                                                      |
-| **Primary Compute Engine**          | Intel Core i3-9100F                                                                                  |
-| **GPU**                             | NVIDIA GeForce GT 710 *(used for display; not suitable for modern PyTorch CUDA-based LLM inference)* |
-| **Inference Platform**              | CPU-based PyTorch / LibTorch Inference                                                               |
-
+---
 
 ```mermaid
 flowchart LR
